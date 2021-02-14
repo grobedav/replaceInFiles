@@ -1,7 +1,4 @@
 # replaceInFiles
-Below are instructions for the programming challenge. Please confirm that you have received this email, and let us know your estimated delivery time. If you have any questions, let me know.  Once you complete this challenge, please send it back with some instructions on how to run it. Thanks for your time! 
-
- 
 
 We would like you to write a class using Groovy to search and replace within all files starting in a given directory. Include comments in your class to indicate why you chose the specific algorithms you did (especially anything you found particularly cool).
 
