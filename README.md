@@ -30,3 +30,5 @@ We expect you to spend some time thinking about, and completing, the exercise. P
 7.            Extra points if you back up the original file before replacing the text.
 
 8.            Extra points if you implement some simple and creative logging (start time, errors, end time, pattern found and where, etc.)
+
+## Run
