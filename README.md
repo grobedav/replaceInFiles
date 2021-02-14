@@ -45,4 +45,4 @@ gradle run --args "C:\Users\grobfdav\TestFiles Hi Hello"
 ## Info
 
 This application is using gradle as dependecy tool. I created only main class file App.groovy, where are all implemented methods. Also one file AppTest is created. This AppTest file can create some test files structure with searchable text. Please FIX only directory paths in AppTest to fit your example. I tried to create simple and parallel solution. Both solutions are compared and the duration time is measured. All requirements points are fulfilled. 
-### The solution is not appropriate for huge files. ###
+#### The solution is not appropriate for huge files. ####
