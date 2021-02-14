@@ -1,4 +1,4 @@
-# replaceInFiles
+# Replace Text In Files
 
 We would like you to write a class using Groovy to search and replace within all files starting in a given directory. Include comments in your class to indicate why you chose the specific algorithms you did (especially anything you found particularly cool).
 
