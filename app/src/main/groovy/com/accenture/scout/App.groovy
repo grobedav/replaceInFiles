@@ -57,12 +57,11 @@ class App {
 
     List replaceInFilesParallel(){
         def baseDir
-        try {
-         baseDir = new File(baseDirPath)
-
         //find all files in deep directory structure
         def files = []
         def results = []
+        try {
+         baseDir = new File(baseDirPath)
         baseDir.eachFileRecurse(FileType.FILES) {
             item -> files << item
         }
