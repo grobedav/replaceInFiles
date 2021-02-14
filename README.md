@@ -32,9 +32,12 @@ We expect you to spend some time thinking about, and completing, the exercise. P
 8.            Extra points if you implement some simple and creative logging (start time, errors, end time, pattern found and where, etc.)
 
 ## Run
-'''
+```
 git clone https://github.com/grobedav/replaceInFiles.git --branch master
+
 cd  replaceInfiles/app
+
 gradle build
+
 gradle run --args "C:\Users\grobfdav\TestFiles Hi Hello"
-'''
+```
